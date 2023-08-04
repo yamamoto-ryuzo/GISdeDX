@@ -6,6 +6,8 @@
 　さらに、細かいところは **エクセル出力して、資料なりなんなり作成できる強者** になれる気がします。  
 
 ![image](https://github.com/yamamoto-ryuzo/GISdeDX/assets/86514652/ee4ae629-fcfd-4e09-8b15-dd5e55cd5420)
+　汎用検索機能（[地図検索](https://github.com/yamamoto-ryuzo/GEO-search-plugin)　：　[汎用地図検索](https://github.com/NationalSecurityAgency/qgis-searchlayers-plugin)  ）　　　 [エクセル連携](https://github.com/yamamoto-ryuzo/QGIS-exportExcel)
+
 ![image](https://github.com/yamamoto-ryuzo/GISdeDX/assets/86514652/0b0031d3-62a5-44ff-9935-00f546a5cc67)
 ![image](https://github.com/yamamoto-ryuzo/GISdeDX/assets/86514652/78fc436b-2338-4ac0-ae30-338c0e186ad2)
 ![image](https://github.com/yamamoto-ryuzo/GISdeDX/assets/86514652/a974ac11-089d-4197-8e7b-d7840696b50e)
