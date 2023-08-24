@@ -9,7 +9,15 @@
 ### 1-1.下記から環境にあったQGISをダウロードください。
 ・[普通にインストールできる人](https://qgis.org/ja/site/forusers/download.html)  
 ・[複数の人に自動配信及びバージョン管理をしたい人（管理者向け）](https://github.com/yamamoto-ryuzo/yr-qgis-portable-launcher)  
- 
+### 1-2.プラグインのインストール  　　
+・[‎Lizmap プラグインをインストールする](https://docs.lizmap.com/current/ja/publish/quick_start/lizmap_configuration.html#install-the-lizmap-plugin)  
+### 1-3.QGISで地図を作成する  
+・[QGISドキュメント](https://qgis.org/ja/docs/index.html)   
+・[QGIS初心者質問グループ：質問はこちらへ](https://groups.google.com/g/qgisshitumon01)  
+・[QGIS User Group Japan：QGISについて語りたい方はこちらへ](https://www.facebook.com/groups/qgis.jp)   
+### 1-4.LIZMAPを設定する
+### 1-5.LIZMAPで公開
+
 ---
 
 ![image](https://github.com/yamamoto-ryuzo/GISdeDX/assets/86514652/ee4ae629-fcfd-4e09-8b15-dd5e55cd5420)
