@@ -8,7 +8,7 @@
 ## STEP.1 QGISの地図をLIZMAPで公開
 ### 1-1.下記から環境にあったQGISをダウロードください。
 ・[普通にインストールできる人](https://qgis.org/ja/site/forusers/download.html)  
-・[複数の人に自動配信及びバージョン管理をしたい人（管理者向け）](https://github.com/yamamoto-ryuzo/yr-qgis-portable-launcher)  
+・[LAN内で複数の人に自動配信及びバージョン管理をしたい人（管理者向け）](https://github.com/yamamoto-ryuzo/yr-qgis-portable-launcher)  
 ### 1-2.プラグインのインストール  　　
 ・[‎Lizmap プラグインをインストールする](https://docs.lizmap.com/current/ja/publish/quick_start/lizmap_configuration.html#install-the-lizmap-plugin)  
 ### 1-3.QGISで地図を作成する  
