@@ -16,7 +16,12 @@
 ・[QGIS初心者質問グループ：質問はこちらへ](https://groups.google.com/g/qgisshitumon01)  
 ・[QGIS User Group Japan：QGISについて語りたい方はこちらへ](https://www.facebook.com/groups/qgis.jp)   
 ### 1-4.LIZMAPを設定する
-### 1-5.LIZMAPで公開
+### 1-5.LIZMAPで公開  
+## STEP.2 他のシステムとの連携  
+### 2-1.グーグルドライブとの連携  
+・[スプレッドシートを.CSV形式で公開](https://smellman.hatenablog.com/entry/2021/02/07/191649)　こちがおすすめのようだ！  
+・CSVファイルをグーグルドライブで共有 　例）https://drive.google.com/uc?export=download&id=ファイルのID&delimiter=,  
+　　2023/09/27現在　CSVのX、Y座標を認識してくれない・・・もう少し工夫が必要か？
 
 ---
 
