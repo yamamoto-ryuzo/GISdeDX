@@ -18,8 +18,10 @@
 ### 1-4.LIZMAPを設定する
 ### 1-5.LIZMAPで公開  
 ## STEP.2 他のシステムとの連携  
+[GDALGDAL仮想ファイルシステムについて](https://gdal.org/user/virtual_file_systems.html#)  
 ### 2-1.グーグルドライブとの連携  
-・[スプレッドシートを.CSV形式で公開](https://smellman.hatenablog.com/entry/2021/02/07/191649)　こちがおすすめのようだ！  
+・[スプレッドシートを.CSV形式で公開](https://smellman.hatenablog.com/entry/2021/02/07/191649)  
+　　こちがおすすめのようだ！  
 ・CSVファイルをグーグルドライブで共有 　例）https://drive.google.com/uc?export=download&id=ファイルのID&delimiter=,  
 　　QGISで属性を指定する場合、4バイト文字ではなく、2バイト文字で指定する必要がある。（たぶん・・・）   
 【現在の課題】  
