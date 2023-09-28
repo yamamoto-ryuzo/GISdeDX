@@ -18,7 +18,7 @@
 ### 1-4.LIZMAPを設定する
 ### 1-5.LIZMAPで公開  
 ## STEP.2 他のシステムとの連携  
-[GDALGDAL仮想ファイルシステムについて](https://gdal.org/user/virtual_file_systems.html#)  
+[GDAL仮想ファイルシステムについて](https://gdal.org/user/virtual_file_systems.html#)  
 ### 2-1.グーグルドライブとの連携  
 ・[スプレッドシートを.CSV形式で公開](https://smellman.hatenablog.com/entry/2021/02/07/191649)  
 　　こちがおすすめのようだ！  
